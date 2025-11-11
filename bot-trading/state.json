@@ -1,0 +1,1838 @@
+{
+  "open_trades": [
+    {
+      "id": "36d507b3-28aa-4fca-8e46-ec138f9eb6a1",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "entry": 269.5498046875,
+      "sl": 270.14164079938615,
+      "tp1": 268.95796857561385,
+      "tp2": 268.3661324637277,
+      "tp3": 267.77429635184154,
+      "size": 168,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T18:49:38.170958+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      }
+    },
+    {
+      "id": "3ce20ee6-a168-4afb-a685-60c747a0dd41",
+      "symbol": "SHOP",
+      "side": "BUY",
+      "entry": 157.42999267578125,
+      "sl": 156.75817544119698,
+      "tp1": 158.10180991036552,
+      "tp2": 158.77362714494978,
+      "tp3": 159.44544437953405,
+      "size": 148,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:49:19.174914+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": true,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "2005a4a5-b7f8-4af8-8b23-a362b2c1c509",
+      "symbol": "TSLA",
+      "side": "BUY",
+      "entry": 444.29998779296875,
+      "sl": 442.1697747366769,
+      "tp1": 446.4302008492606,
+      "tp2": 448.5604139055525,
+      "tp3": 450.6906269618443,
+      "size": 46,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:54:59.264967+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "bcc46624-ef2d-4a5b-9586-ee99f8fcd8dc",
+      "symbol": "SHOP",
+      "side": "BUY",
+      "entry": 152.41000366210938,
+      "sl": 141.41671752929688,
+      "tp1": 163.40328979492188,
+      "tp2": 174.39657592773438,
+      "tp3": 185.38986206054688,
+      "size": 9,
+      "timeframe": "1d",
+      "created_at": "2025-11-10T19:55:41.126192+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "ee0fe059-09b3-4cf9-8265-307eb07e9889",
+      "symbol": "PG",
+      "side": "SELL",
+      "entry": 144.82000732421875,
+      "sl": 145.09834235055106,
+      "tp1": 144.54167229788644,
+      "tp2": 144.26333727155412,
+      "tp3": 143.9850022452218,
+      "size": 359,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:08:33.828036+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "551df1d6-0967-4729-bd36-7d902207ca47",
+      "symbol": "V",
+      "side": "SELL",
+      "entry": 335.45001220703125,
+      "sl": 336.15197317940846,
+      "tp1": 334.74805123465404,
+      "tp2": 334.0460902622768,
+      "tp3": 333.34412928989957,
+      "size": 142,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:51:12.882733+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "5969910e-0e65-4dff-881d-9ed222770d47",
+      "symbol": "AMD",
+      "side": "BUY",
+      "entry": 245.60000610351562,
+      "sl": 244.77544457571847,
+      "tp1": 246.42456763131278,
+      "tp2": 247.24912915910994,
+      "tp3": 248.0736906869071,
+      "size": 121,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:57:55.490751+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "2225c4f7-9db1-4690-875b-1a980f6e00c8",
+      "symbol": "MA",
+      "side": "SELL",
+      "entry": 550.7999877929688,
+      "sl": 551.7034432547433,
+      "tp1": 549.8965323311942,
+      "tp2": 548.9930768694196,
+      "tp3": 548.089621407645,
+      "size": 110,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:03:19.410175+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "672aa1f8-e843-4fec-ab8a-00cbdd63bb84",
+      "symbol": "AMZN",
+      "side": "BUY",
+      "entry": 248.43499755859375,
+      "sl": 248.08639580862862,
+      "tp1": 248.78359930855888,
+      "tp2": 249.132201058524,
+      "tp3": 249.48080280848913,
+      "size": 286,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:10:08.221219+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "972b742f-6173-44a0-b9c2-4ba74ff0197d",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "entry": 239.49000549316406,
+      "sl": 240.65461676461356,
+      "tp1": 238.32539422171456,
+      "tp2": 237.16078295026506,
+      "tp3": 235.99617167881556,
+      "size": 85,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:10:22.273255+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "7fa62523-02e9-49fd-87d2-6608faecbe34",
+      "symbol": "MA",
+      "side": "SELL",
+      "entry": 551.3250122070312,
+      "sl": 552.2209734235491,
+      "tp1": 550.4290509905134,
+      "tp2": 549.5330897739956,
+      "tp3": 548.6371285574777,
+      "size": 111,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:10:51.753240+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "45854339-c4c6-4016-8f8f-b6661748861a",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "entry": 239.23500061035156,
+      "sl": 240.40644890921456,
+      "tp1": 238.06355231148856,
+      "tp2": 236.89210401262557,
+      "tp3": 235.72065571376257,
+      "size": 85,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:16:28.689241+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "a089c965-453e-406d-9642-812d15ece5d2",
+      "symbol": "AMZN",
+      "side": "BUY",
+      "entry": 248.2100067138672,
+      "sl": 247.82282366071428,
+      "tp1": 248.5971897670201,
+      "tp2": 248.98437282017298,
+      "tp3": 249.3715558733259,
+      "size": 258,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:22:24.336353+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "e4c3b347-b7bd-419f-b3b1-9dbc32ee2e08",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "entry": 238.85000610351562,
+      "sl": 240.03002439226424,
+      "tp1": 237.669987814767,
+      "tp2": 236.48996952601843,
+      "tp3": 235.30995123726981,
+      "size": 84,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:22:38.386875+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "dfb2432b-79b3-4f12-b4d2-a00b53c87e1b",
+      "symbol": "GOOGL",
+      "side": "BUY",
+      "entry": 289.8900146484375,
+      "sl": 289.32898603166853,
+      "tp1": 290.45104326520647,
+      "tp2": 291.01207188197543,
+      "tp3": 291.5731004987444,
+      "size": 178,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:30:29.780453+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "21dc82c2-5649-42df-8c32-93e663b2212a",
+      "symbol": "AMZN",
+      "side": "BUY",
+      "entry": 248.11000061035156,
+      "sl": 247.74585124424524,
+      "tp1": 248.47414997645788,
+      "tp2": 248.83829934256417,
+      "tp3": 249.2024487086705,
+      "size": 274,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:30:32.730957+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "cab5d2ba-f9eb-4bec-96d3-2728b83594a6",
+      "symbol": "JPM",
+      "side": "BUY",
+      "entry": 317.19000244140625,
+      "sl": 316.66211591448103,
+      "tp1": 317.71788896833147,
+      "tp2": 318.2457754952567,
+      "tp3": 318.7736620221819,
+      "size": 189,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:31:25.392846+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "9098c4a0-7d8d-4fdc-a19e-5803df91074e",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "entry": 239.10499572753906,
+      "sl": 240.13820593697685,
+      "tp1": 238.07178551810128,
+      "tp2": 237.0385753086635,
+      "tp3": 236.0053650992257,
+      "size": 96,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:37:22.779054+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "a6a30dab-5a83-434a-8520-f1b49700ffb7",
+      "symbol": "JPM",
+      "side": "BUY",
+      "entry": 317.4111022949219,
+      "sl": 316.8905988420759,
+      "tp1": 317.93160574776783,
+      "tp2": 318.45210920061385,
+      "tp3": 318.9726126534598,
+      "size": 192,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:37:51.084634+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "ef19300b-86ce-46fa-a768-7b8943d7306b",
+      "symbol": "GS",
+      "side": "BUY",
+      "entry": 799.2658081054688,
+      "sl": 797.5314069475446,
+      "tp1": 801.0002092633929,
+      "tp2": 802.7346104213169,
+      "tp3": 804.469011579241,
+      "size": 57,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:37:53.570897+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "f9f42416-3618-4218-85c1-c7a660b37cf0",
+      "symbol": "GS",
+      "side": "BUY",
+      "entry": 798.4600219726562,
+      "sl": 796.7229461669922,
+      "tp1": 800.1970977783203,
+      "tp2": 801.9341735839844,
+      "tp3": 803.6712493896484,
+      "size": 57,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:44:22.846631+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "6e88e846-4491-443d-9086-c7561fcbef2b",
+      "symbol": "GS",
+      "side": "BUY",
+      "entry": 798.4600219726562,
+      "sl": 796.7229461669922,
+      "tp1": 800.1970977783203,
+      "tp2": 801.9341735839844,
+      "tp3": 803.6712493896484,
+      "size": 57,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:44:23.473390+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "4893356d-a2ee-4d44-bb84-7e3ca18dc600",
+      "symbol": "T",
+      "side": "BUY",
+      "entry": 24.773300170898438,
+      "sl": 24.726703303200857,
+      "tp1": 24.819897038596018,
+      "tp2": 24.866493906293595,
+      "tp3": 24.913090773991176,
+      "size": 2146,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:44:34.510108+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "3f75a121-bfc5-42c7-ba9d-d3808101adac",
+      "symbol": "GS",
+      "side": "BUY",
+      "entry": 798.0900268554688,
+      "sl": 796.2825796944754,
+      "tp1": 799.8974740164621,
+      "tp2": 801.7049211774554,
+      "tp3": 803.5123683384487,
+      "size": 55,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:50:49.501054+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": true,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "602ff2e3-6e90-447d-8081-4183ee93ac4d",
+      "symbol": "KO",
+      "side": "BUY",
+      "entry": 70.01,
+      "sl": 69.85287271772113,
+      "tp1": 70.16712728227888,
+      "tp2": 70.32425456455776,
+      "tp3": 70.48138184683664,
+      "size": 636,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:03:24.538481+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": true,
+        "tp3": true
+      },
+      "message_id": null
+    },
+    {
+      "id": "5b2e6acd-1662-41a6-978a-c6e291232708",
+      "symbol": "CVX",
+      "side": "BUY",
+      "entry": 155.07,
+      "sl": 154.59098582676478,
+      "tp1": 155.5490141732352,
+      "tp2": 156.02802834647042,
+      "tp3": 156.50704251970564,
+      "size": 208,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:03:40.232276+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "ff56b914-abd1-46d5-9e75-bfc93c46051b",
+      "symbol": "GOOGL",
+      "side": "BUY",
+      "entry": 290.085,
+      "sl": 288.377653187779,
+      "tp1": 291.79234681222096,
+      "tp2": 293.49969362444193,
+      "tp3": 295.2070404366629,
+      "size": 58,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:15:40.153887+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "c619cb63-790d-4dc4-9a54-19bf0b6716b2",
+      "symbol": "WMT",
+      "side": "BUY",
+      "entry": 102.42,
+      "sl": 102.23035590035575,
+      "tp1": 102.60964409964426,
+      "tp2": 102.79928819928851,
+      "tp3": 102.98893229893277,
+      "size": 527,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:16:15.230236+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "322d22e5-1bb7-40bb-8d22-60e0260f15a1",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "entry": 1119.94,
+      "sl": 1115.7344960379464,
+      "tp1": 1124.1455039620537,
+      "tp2": 1128.351007924107,
+      "tp3": 1132.5565118861607,
+      "size": 23,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:21:58.584582+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "0d84f183-92d0-475c-989a-c21ccf54fd2d",
+      "symbol": "WMT",
+      "side": "BUY",
+      "entry": 102.29,
+      "sl": 102.08803460257394,
+      "tp1": 102.49196539742607,
+      "tp2": 102.69393079485214,
+      "tp3": 102.89589619227819,
+      "size": 495,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:22:20.595558+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "51f458ee-0d17-421c-a3a9-2b96cab5a8ac",
+      "symbol": "WMT",
+      "side": "BUY",
+      "entry": 102.29,
+      "sl": 102.08803460257394,
+      "tp1": 102.49196539742607,
+      "tp2": 102.69393079485214,
+      "tp3": 102.89589619227819,
+      "size": 495,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:22:21.279009+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "6a06e8f6-8326-4677-a81c-a992e6c01f1f",
+      "symbol": "INTC",
+      "side": "BUY",
+      "entry": 38.3987,
+      "sl": 38.23104282902309,
+      "tp1": 38.56635717097691,
+      "tp2": 38.734014341953824,
+      "tp3": 38.90167151293073,
+      "size": 596,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:28:05.036595+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "1218450b-c597-4d71-ad66-d2862eb918f0",
+      "symbol": "INTC",
+      "side": "BUY",
+      "entry": 38.33,
+      "sl": 38.177064296177456,
+      "tp1": 38.48293570382254,
+      "tp2": 38.63587140764509,
+      "tp3": 38.788807111467634,
+      "size": 653,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:30:52.903936+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": null
+    },
+    {
+      "id": "beb2c378-58a7-4070-8922-63d49cc99668",
+      "symbol": "INTC",
+      "side": "BUY",
+      "entry": 38.3602,
+      "sl": 38.22170716966902,
+      "tp1": 38.49869283033098,
+      "tp2": 38.63718566066197,
+      "tp3": 38.77567849099296,
+      "size": 722,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:45:29.911818+01:00",
+      "user_confirmed": true,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 373
+    },
+    {
+      "id": "4449c9e7-0599-4545-b11f-197ee13c0518",
+      "symbol": "MSFT",
+      "side": "BUY",
+      "entry": 505.865,
+      "sl": 495.8686169015067,
+      "tp1": 515.8613830984933,
+      "tp2": 525.8577661969866,
+      "tp3": 535.8541492954799,
+      "size": 10,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:57:26.954030+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 380
+    },
+    {
+      "id": "fa8de022-6a4d-4075-8641-523301f4532d",
+      "symbol": "GOOGL",
+      "side": "BUY",
+      "entry": 290.1492,
+      "sl": 288.6510343662807,
+      "tp1": 291.6473656337193,
+      "tp2": 293.14553126743857,
+      "tp3": 294.64369690115785,
+      "size": 66,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:57:33.969163+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 381
+    },
+    {
+      "id": "143e14fc-5cd6-4e3d-8939-3ae3da77501c",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "entry": 1119.93,
+      "sl": 1116.826090764509,
+      "tp1": 1123.0339092354911,
+      "tp2": 1126.1378184709822,
+      "tp3": 1129.241727706473,
+      "size": 32,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:57:45.789481+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 382
+    },
+    {
+      "id": "5fd808c2-abdf-42a4-ae96-c1d82d2c486c",
+      "symbol": "KO",
+      "side": "BUY",
+      "entry": 70.4,
+      "sl": 70.00848964538575,
+      "tp1": 70.79151035461426,
+      "tp2": 71.18302070922851,
+      "tp3": 71.57453106384277,
+      "size": 255,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T23:04:10.698497+01:00",
+      "user_confirmed": null,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 383
+    },
+    {
+      "id": "a6b4a0a1-15b8-4c04-acd5-15d7834a9531",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "entry": 1119.93,
+      "sl": 1119.0107357142858,
+      "tp1": 1120.8492642857143,
+      "tp2": 1121.7685285714285,
+      "tp3": 1122.687792857143,
+      "size": 108,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T23:15:59.748877+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 386
+    },
+    {
+      "id": "a58e6225-14df-47ca-bd98-c46b064c8c4f",
+      "symbol": "NVDA",
+      "side": "BUY",
+      "entry": 199.15,
+      "sl": 198.75678571428574,
+      "tp1": 199.54321428571427,
+      "tp2": 199.93642857142856,
+      "tp3": 200.32964285714283,
+      "size": 254,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T23:21:45.243456+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 387
+    },
+    {
+      "id": "cdbc4016-1d41-4a9c-82b2-a3aaa881da64",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "entry": 1119.475,
+      "sl": 1118.6534285714283,
+      "tp1": 1120.2965714285715,
+      "tp2": 1121.1181428571429,
+      "tp3": 1121.9397142857144,
+      "size": 121,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 2,
+      "tp_reason": "Écart RSI moyen (3.4), TP2",
+      "created_at": "2025-11-10T23:34:25.861123+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 392
+    },
+    {
+      "id": "e8ebf524-5277-4f7e-8922-ec7c0c167a9d",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "entry": 1119.54,
+      "sl": 1118.684432142857,
+      "tp1": 1120.3955678571429,
+      "tp2": 1121.2511357142857,
+      "tp3": 1122.1067035714289,
+      "size": 116,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "tp_reason": "Écart RSI faible (1.8), TP1",
+      "created_at": "2025-11-10T23:54:34.508858+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 396
+    },
+    {
+      "id": "32cce5a2-d1ee-417e-b72d-e028a38263b7",
+      "symbol": "META",
+      "side": "BUY",
+      "entry": 632.775,
+      "sl": 620.5430892857142,
+      "tp1": 645.0069107142857,
+      "tp2": 657.2388214285714,
+      "tp3": 669.4707321428572,
+      "size": 8,
+      "timeframe": "5m",
+      "rsi_mode": "RSI Safe",
+      "tp_pick": 3,
+      "tp_reason": "Écart RSI fort (18.3) + trend OK, TP3",
+      "created_at": "2025-11-11T00:19:35.091325+01:00",
+      "user_confirmed": true,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 399
+    },
+    {
+      "id": "ab5e9670-b39b-4f9b-977d-de6a52d6adea",
+      "symbol": "META",
+      "side": "BUY",
+      "entry": 632.775,
+      "sl": 620.5430892857142,
+      "tp1": 645.0069107142857,
+      "tp2": 657.2388214285714,
+      "tp3": 669.4707321428572,
+      "size": 8,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 3,
+      "tp_reason": "Écart RSI fort (23.3) + trend OK, TP3",
+      "created_at": "2025-11-11T00:19:35.615119+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 400
+    },
+    {
+      "id": "83970af9-5433-4b45-9741-b37ed411e154",
+      "symbol": "SHOP",
+      "side": "BUY",
+      "entry": 158.55,
+      "sl": 158.04428571428573,
+      "tp1": 159.0557142857143,
+      "tp2": 159.56142857142856,
+      "tp3": 160.06714285714284,
+      "size": 197,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "tp_reason": "Écart RSI faible (0.2), TP1",
+      "created_at": "2025-11-11T00:19:48.618946+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": true,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 401
+    },
+    {
+      "id": "92bed0fd-8b71-493f-b939-15b1db68abf3",
+      "symbol": "PEP",
+      "side": "BUY",
+      "entry": 142.51,
+      "sl": 142.39589285714283,
+      "tp1": 142.62410714285716,
+      "tp2": 142.7382142857143,
+      "tp3": 142.85232142857146,
+      "size": 876,
+      "timeframe": "5m",
+      "rsi_mode": "RSI Safe",
+      "tp_pick": 1,
+      "tp_reason": "Écart RSI faible (0.6), TP1",
+      "created_at": "2025-11-11T00:35:08.615441+01:00",
+      "user_confirmed": true,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 405
+    },
+    {
+      "id": "ce40f19d-a206-4696-99ea-e2f59bf6af94",
+      "symbol": "PEP",
+      "side": "BUY",
+      "entry": 142.51,
+      "sl": 142.39589285714283,
+      "tp1": 142.62410714285716,
+      "tp2": 142.7382142857143,
+      "tp3": 142.85232142857146,
+      "size": 876,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 2,
+      "tp_reason": "Écart RSI moyen (5.6), TP2",
+      "created_at": "2025-11-11T00:35:09.186640+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 406
+    },
+    {
+      "id": "5bcf1a77-036a-4875-8be3-f38034b4f642",
+      "symbol": "MSFT",
+      "side": "BUY",
+      "entry": 505.75,
+      "sl": 505.359325,
+      "tp1": 506.140675,
+      "tp2": 506.53135,
+      "tp3": 506.92202499999996,
+      "size": 255,
+      "timeframe": "5m",
+      "rsi_mode": "RSI Safe",
+      "tp_pick": 2,
+      "tp_reason": "Écart RSI moyen (4.6), TP2",
+      "created_at": "2025-11-11T00:44:38.045112+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 409
+    },
+    {
+      "id": "ca1afe0d-b02a-4c2c-b48d-27b7484d7b4c",
+      "symbol": "MSFT",
+      "side": "BUY",
+      "entry": 505.75,
+      "sl": 505.359325,
+      "tp1": 506.140675,
+      "tp2": 506.53135,
+      "tp3": 506.92202499999996,
+      "size": 255,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 3,
+      "tp_reason": "Écart RSI fort (9.6) + trend OK, TP3",
+      "created_at": "2025-11-11T00:44:38.615523+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": true,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 410
+    },
+    {
+      "id": "43714c7c-6b26-4041-bedd-7c3079ee09d5",
+      "symbol": "TSLA",
+      "side": "BUY",
+      "entry": 444.84,
+      "sl": 444.1491321428571,
+      "tp1": 445.5308678571428,
+      "tp2": 446.22173571428567,
+      "tp3": 446.9126035714285,
+      "size": 144,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "tp_reason": "Écart RSI faible (1.8), TP1",
+      "created_at": "2025-11-11T00:59:52.255289+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": true,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 411
+    },
+    {
+      "id": "9a3dfce1-62d5-4daf-83bb-5a2093d44dd9",
+      "symbol": "T",
+      "side": "BUY",
+      "entry": 24.8,
+      "sl": 24.782867857142858,
+      "tp1": 24.817132142857144,
+      "tp2": 24.83426428571429,
+      "tp3": 24.851396428571434,
+      "size": 5836,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "tp_reason": "Écart RSI faible (2.1), TP1",
+      "created_at": "2025-11-11T01:40:59.364982+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 418
+    },
+    {
+      "id": "f7ae9ad5-6c75-4abf-9eac-a306a09db680",
+      "symbol": "AMD",
+      "side": "BUY",
+      "entry": 244.23,
+      "sl": 243.56202857142856,
+      "tp1": 244.89797142857142,
+      "tp2": 245.56594285714286,
+      "tp3": 246.2339142857143,
+      "size": 149,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 2,
+      "tp_reason": "Écart RSI moyen (4.9), TP2",
+      "created_at": "2025-11-11T10:13:20.774374+01:00",
+      "user_confirmed": true,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 422
+    },
+    {
+      "id": "ab958677-936c-4ca8-91b3-be1f17941e15",
+      "symbol": "AMD",
+      "side": "BUY",
+      "entry": 244.0,
+      "sl": 243.26881428571429,
+      "tp1": 244.73118571428571,
+      "tp2": 245.46237142857143,
+      "tp3": 246.19355714285717,
+      "size": 136,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "tp_reason": "Écart RSI faible (2.5), TP1",
+      "created_at": "2025-11-11T10:18:21.857421+01:00",
+      "user_confirmed": false,
+      "hits": {
+        "sl": false,
+        "tp1": false,
+        "tp2": false,
+        "tp3": false
+      },
+      "message_id": 423
+    }
+  ],
+  "recent_signals": [
+    {
+      "id": "36d507b3-28aa-4fca-8e46-ec138f9eb6a1",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 269.5498046875,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T18:49:38.170958+01:00"
+    },
+    {
+      "id": "9921b50e-d424-413a-a172-7228db5db22d",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 269.5498046875,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T18:49:38.794250+01:00"
+    },
+    {
+      "id": "db531a88-ec2d-415d-a1a9-ee4d4e9bbe31",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 269.67498779296875,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T18:54:47.560339+01:00"
+    },
+    {
+      "id": "2710102c-6836-4d78-b8d8-cbe61102b2df",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 269.67999267578125,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T18:54:48.132923+01:00"
+    },
+    {
+      "id": "7e1746b2-0bed-4e07-a12c-c8cca2bae21b",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 269.5400085449219,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T18:58:00.921613+01:00"
+    },
+    {
+      "id": "87ad166c-00ca-42e5-bb42-8a832287c885",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 269.79998779296875,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:03:42.702555+01:00"
+    },
+    {
+      "id": "f848d6ea-e1c3-4294-ad91-465e1be32fc1",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 269.7799987792969,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:03:43.346667+01:00"
+    },
+    {
+      "id": "da6fa621-76d3-41ac-ba06-c0a75ea5e69f",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 269.7950134277344,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:09:18.963933+01:00"
+    },
+    {
+      "id": "9968f197-0c27-464a-9d98-c1881b6535ec",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 270.0899963378906,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:14:29.860590+01:00"
+    },
+    {
+      "id": "0508901e-f31e-49e3-bb6d-bec16798afba",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "price": 270.0899963378906,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:14:30.452178+01:00"
+    },
+    {
+      "id": "3ce20ee6-a168-4afb-a685-60c747a0dd41",
+      "symbol": "SHOP",
+      "side": "BUY",
+      "price": 157.42999267578125,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:49:19.174914+01:00"
+    },
+    {
+      "id": "f49e1940-9d1b-4527-8ed4-38dfab8a36ef",
+      "symbol": "SHOP",
+      "side": "BUY",
+      "price": 157.42999267578125,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:49:19.552892+01:00"
+    },
+    {
+      "id": "2005a4a5-b7f8-4af8-8b23-a362b2c1c509",
+      "symbol": "TSLA",
+      "side": "BUY",
+      "price": 444.29998779296875,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T19:54:59.264967+01:00"
+    },
+    {
+      "id": "bcc46624-ef2d-4a5b-9586-ee99f8fcd8dc",
+      "symbol": "SHOP",
+      "side": "BUY",
+      "price": 152.41000366210938,
+      "timeframe": "1d",
+      "created_at": "2025-11-10T19:55:41.126192+01:00"
+    },
+    {
+      "id": "ee0fe059-09b3-4cf9-8265-307eb07e9889",
+      "symbol": "PG",
+      "side": "SELL",
+      "price": 144.82000732421875,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:08:33.828036+01:00"
+    },
+    {
+      "id": "8a3aa265-3fd5-4bb6-b584-43bbbf887761",
+      "symbol": "PG",
+      "side": "SELL",
+      "price": 144.89999389648438,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:14:44.256768+01:00"
+    },
+    {
+      "id": "e61a77c4-1af6-477a-8ca9-6791a464f511",
+      "symbol": "PG",
+      "side": "SELL",
+      "price": 144.89999389648438,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:14:44.754726+01:00"
+    },
+    {
+      "id": "551df1d6-0967-4729-bd36-7d902207ca47",
+      "symbol": "V",
+      "side": "SELL",
+      "price": 335.45001220703125,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:51:12.882733+01:00"
+    },
+    {
+      "id": "a4f37591-dc0a-4e31-8ee4-11819afed2cf",
+      "symbol": "V",
+      "side": "SELL",
+      "price": 335.45001220703125,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:51:16.957008+01:00"
+    },
+    {
+      "id": "5969910e-0e65-4dff-881d-9ed222770d47",
+      "symbol": "AMD",
+      "side": "BUY",
+      "price": 245.60000610351562,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:57:55.490751+01:00"
+    },
+    {
+      "id": "bef77962-a281-4c14-8e06-9ff6b0efdee4",
+      "symbol": "AMD",
+      "side": "BUY",
+      "price": 245.5850067138672,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T20:57:56.830769+01:00"
+    },
+    {
+      "id": "2225c4f7-9db1-4690-875b-1a980f6e00c8",
+      "symbol": "MA",
+      "side": "SELL",
+      "price": 550.7999877929688,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:03:19.410175+01:00"
+    },
+    {
+      "id": "672aa1f8-e843-4fec-ab8a-00cbdd63bb84",
+      "symbol": "AMZN",
+      "side": "BUY",
+      "price": 248.43499755859375,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:10:08.221219+01:00"
+    },
+    {
+      "id": "972b742f-6173-44a0-b9c2-4ba74ff0197d",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "price": 239.49000549316406,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:10:22.273255+01:00"
+    },
+    {
+      "id": "7fa62523-02e9-49fd-87d2-6608faecbe34",
+      "symbol": "MA",
+      "side": "SELL",
+      "price": 551.3250122070312,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:10:51.753240+01:00"
+    },
+    {
+      "id": "45854339-c4c6-4016-8f8f-b6661748861a",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "price": 239.23500061035156,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:16:28.689241+01:00"
+    },
+    {
+      "id": "a089c965-453e-406d-9642-812d15ece5d2",
+      "symbol": "AMZN",
+      "side": "BUY",
+      "price": 248.2100067138672,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:22:24.336353+01:00"
+    },
+    {
+      "id": "17f79cc1-cfa3-4014-b662-f08ccb2193dd",
+      "symbol": "AMZN",
+      "side": "BUY",
+      "price": 248.2100067138672,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:22:24.878167+01:00"
+    },
+    {
+      "id": "e4c3b347-b7bd-419f-b3b1-9dbc32ee2e08",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "price": 238.85000610351562,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:22:38.386875+01:00"
+    },
+    {
+      "id": "4b5cf9ca-bbeb-4edb-9ed8-8586c6853a21",
+      "symbol": "AMZN",
+      "side": "BUY",
+      "price": 248.28500366210938,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:24:21.017403+01:00"
+    },
+    {
+      "id": "1e7d3f7f-8f3d-42ee-887f-1e8d5fbc38e9",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "price": 239.04200744628906,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:24:34.924890+01:00"
+    },
+    {
+      "id": "dfb2432b-79b3-4f12-b4d2-a00b53c87e1b",
+      "symbol": "GOOGL",
+      "side": "BUY",
+      "price": 289.8900146484375,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:30:29.780453+01:00"
+    },
+    {
+      "id": "a4e9deda-7025-4524-87da-1aa30bc68831",
+      "symbol": "GOOGL",
+      "side": "BUY",
+      "price": 289.8900146484375,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:30:30.334058+01:00"
+    },
+    {
+      "id": "21dc82c2-5649-42df-8c32-93e663b2212a",
+      "symbol": "AMZN",
+      "side": "BUY",
+      "price": 248.11000061035156,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:30:32.730957+01:00"
+    },
+    {
+      "id": "cab5d2ba-f9eb-4bec-96d3-2728b83594a6",
+      "symbol": "JPM",
+      "side": "BUY",
+      "price": 317.19000244140625,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:31:25.392846+01:00"
+    },
+    {
+      "id": "9098c4a0-7d8d-4fdc-a19e-5803df91074e",
+      "symbol": "ORCL",
+      "side": "SELL",
+      "price": 239.10499572753906,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:37:22.779054+01:00"
+    },
+    {
+      "id": "a6a30dab-5a83-434a-8520-f1b49700ffb7",
+      "symbol": "JPM",
+      "side": "BUY",
+      "price": 317.4111022949219,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:37:51.084634+01:00"
+    },
+    {
+      "id": "ef19300b-86ce-46fa-a768-7b8943d7306b",
+      "symbol": "GS",
+      "side": "BUY",
+      "price": 799.2658081054688,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:37:53.570897+01:00"
+    },
+    {
+      "id": "f9f42416-3618-4218-85c1-c7a660b37cf0",
+      "symbol": "GS",
+      "side": "BUY",
+      "price": 798.4600219726562,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:44:22.846631+01:00"
+    },
+    {
+      "id": "6e88e846-4491-443d-9086-c7561fcbef2b",
+      "symbol": "GS",
+      "side": "BUY",
+      "price": 798.4600219726562,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:44:23.473390+01:00"
+    },
+    {
+      "id": "4893356d-a2ee-4d44-bb84-7e3ca18dc600",
+      "symbol": "T",
+      "side": "BUY",
+      "price": 24.773300170898438,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:44:34.510108+01:00"
+    },
+    {
+      "id": "3f75a121-bfc5-42c7-ba9d-d3808101adac",
+      "symbol": "GS",
+      "side": "BUY",
+      "price": 798.0900268554688,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T21:50:49.501054+01:00"
+    },
+    {
+      "id": "602ff2e3-6e90-447d-8081-4183ee93ac4d",
+      "symbol": "KO",
+      "side": "BUY",
+      "price": 70.01,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:03:24.538481+01:00"
+    },
+    {
+      "id": "7167a49d-3211-4d7d-a48c-3a8b398b42bd",
+      "symbol": "KO",
+      "side": "BUY",
+      "price": 70.01,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:03:25.066794+01:00"
+    },
+    {
+      "id": "5b2e6acd-1662-41a6-978a-c6e291232708",
+      "symbol": "CVX",
+      "side": "BUY",
+      "price": 155.07,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:03:40.232276+01:00"
+    },
+    {
+      "id": "ff56b914-abd1-46d5-9e75-bfc93c46051b",
+      "symbol": "GOOGL",
+      "side": "BUY",
+      "price": 290.085,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:15:40.153887+01:00"
+    },
+    {
+      "id": "c619cb63-790d-4dc4-9a54-19bf0b6716b2",
+      "symbol": "WMT",
+      "side": "BUY",
+      "price": 102.42,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:16:15.230236+01:00"
+    },
+    {
+      "id": "11192099-6c8b-417b-972a-610513fa1012",
+      "symbol": "WMT",
+      "side": "BUY",
+      "price": 102.42,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:16:15.626070+01:00"
+    },
+    {
+      "id": "322d22e5-1bb7-40bb-8d22-60e0260f15a1",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.94,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:21:58.584582+01:00"
+    },
+    {
+      "id": "0d84f183-92d0-475c-989a-c21ccf54fd2d",
+      "symbol": "WMT",
+      "side": "BUY",
+      "price": 102.29,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:22:20.595558+01:00"
+    },
+    {
+      "id": "51f458ee-0d17-421c-a3a9-2b96cab5a8ac",
+      "symbol": "WMT",
+      "side": "BUY",
+      "price": 102.29,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:22:21.279009+01:00"
+    },
+    {
+      "id": "6a06e8f6-8326-4677-a81c-a992e6c01f1f",
+      "symbol": "INTC",
+      "side": "BUY",
+      "price": 38.3987,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:28:05.036595+01:00"
+    },
+    {
+      "id": "02c1210f-81bd-42c6-a6f5-cae186ca8ee6",
+      "symbol": "INTC",
+      "side": "BUY",
+      "price": 38.3987,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:28:05.560844+01:00"
+    },
+    {
+      "id": "f8495e04-c95a-4a01-903a-5f54ae856cb7",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.855,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:28:09.411339+01:00"
+    },
+    {
+      "id": "1218450b-c597-4d71-ad66-d2862eb918f0",
+      "symbol": "INTC",
+      "side": "BUY",
+      "price": 38.33,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:30:52.903936+01:00"
+    },
+    {
+      "id": "beb2c378-58a7-4070-8922-63d49cc99668",
+      "symbol": "INTC",
+      "side": "BUY",
+      "price": 38.3602,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:45:29.911818+01:00"
+    },
+    {
+      "id": "4449c9e7-0599-4545-b11f-197ee13c0518",
+      "symbol": "MSFT",
+      "side": "BUY",
+      "price": 505.865,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:57:26.954030+01:00"
+    },
+    {
+      "id": "eaffd64f-8e97-438b-a562-28d8b901403b",
+      "symbol": "MSFT",
+      "side": "BUY",
+      "price": 505.865,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:57:27.524067+01:00"
+    },
+    {
+      "id": "fa8de022-6a4d-4075-8641-523301f4532d",
+      "symbol": "GOOGL",
+      "side": "BUY",
+      "price": 290.1492,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:57:33.969163+01:00"
+    },
+    {
+      "id": "143e14fc-5cd6-4e3d-8939-3ae3da77501c",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.93,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:57:45.789481+01:00"
+    },
+    {
+      "id": "b10c241b-346a-40d5-9d28-46e493408ed6",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.93,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T22:57:46.418358+01:00"
+    },
+    {
+      "id": "33247fc2-0341-4b93-85fa-a86a379a94dd",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.57,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T23:03:52.144275+01:00"
+    },
+    {
+      "id": "e0c9e6bf-b810-4f50-bf64-d5fa76cb077f",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.57,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T23:03:52.722101+01:00"
+    },
+    {
+      "id": "5fd808c2-abdf-42a4-ae96-c1d82d2c486c",
+      "symbol": "KO",
+      "side": "BUY",
+      "price": 70.4,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T23:04:10.698497+01:00"
+    },
+    {
+      "id": "a6b4a0a1-15b8-4c04-acd5-15d7834a9531",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.93,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T23:15:59.748877+01:00"
+    },
+    {
+      "id": "a58e6225-14df-47ca-bd98-c46b064c8c4f",
+      "symbol": "NVDA",
+      "side": "BUY",
+      "price": 199.15,
+      "timeframe": "5m",
+      "created_at": "2025-11-10T23:21:45.243456+01:00"
+    },
+    {
+      "id": "cdbc4016-1d41-4a9c-82b2-a3aaa881da64",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.475,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 2,
+      "created_at": "2025-11-10T23:34:25.861123+01:00"
+    },
+    {
+      "id": "dd3cd995-bb19-4b1f-ad32-ee173ec85bd9",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.475,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "created_at": "2025-11-10T23:39:28.649079+01:00"
+    },
+    {
+      "id": "e8ebf524-5277-4f7e-8922-ec7c0c167a9d",
+      "symbol": "NFLX",
+      "side": "BUY",
+      "price": 1119.54,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "created_at": "2025-11-10T23:54:34.508858+01:00"
+    },
+    {
+      "id": "32cce5a2-d1ee-417e-b72d-e028a38263b7",
+      "symbol": "META",
+      "side": "BUY",
+      "price": 632.775,
+      "timeframe": "5m",
+      "rsi_mode": "RSI Safe",
+      "tp_pick": 3,
+      "created_at": "2025-11-11T00:19:35.091325+01:00"
+    },
+    {
+      "id": "ab5e9670-b39b-4f9b-977d-de6a52d6adea",
+      "symbol": "META",
+      "side": "BUY",
+      "price": 632.775,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 3,
+      "created_at": "2025-11-11T00:19:35.615119+01:00"
+    },
+    {
+      "id": "83970af9-5433-4b45-9741-b37ed411e154",
+      "symbol": "SHOP",
+      "side": "BUY",
+      "price": 158.55,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "created_at": "2025-11-11T00:19:48.618946+01:00"
+    },
+    {
+      "id": "213a13e3-2b36-40cd-9ca7-612b1631dcf4",
+      "symbol": "SHOP",
+      "side": "BUY",
+      "price": 158.55,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "created_at": "2025-11-11T00:24:49.463775+01:00"
+    },
+    {
+      "id": "92bed0fd-8b71-493f-b939-15b1db68abf3",
+      "symbol": "PEP",
+      "side": "BUY",
+      "price": 142.51,
+      "timeframe": "5m",
+      "rsi_mode": "RSI Safe",
+      "tp_pick": 1,
+      "created_at": "2025-11-11T00:35:08.615441+01:00"
+    },
+    {
+      "id": "ce40f19d-a206-4696-99ea-e2f59bf6af94",
+      "symbol": "PEP",
+      "side": "BUY",
+      "price": 142.51,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 2,
+      "created_at": "2025-11-11T00:35:09.186640+01:00"
+    },
+    {
+      "id": "5bcf1a77-036a-4875-8be3-f38034b4f642",
+      "symbol": "MSFT",
+      "side": "BUY",
+      "price": 505.75,
+      "timeframe": "5m",
+      "rsi_mode": "RSI Safe",
+      "tp_pick": 2,
+      "created_at": "2025-11-11T00:44:38.045112+01:00"
+    },
+    {
+      "id": "ca1afe0d-b02a-4c2c-b48d-27b7484d7b4c",
+      "symbol": "MSFT",
+      "side": "BUY",
+      "price": 505.75,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 3,
+      "created_at": "2025-11-11T00:44:38.615523+01:00"
+    },
+    {
+      "id": "43714c7c-6b26-4041-bedd-7c3079ee09d5",
+      "symbol": "TSLA",
+      "side": "BUY",
+      "price": 444.84,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "created_at": "2025-11-11T00:59:52.255289+01:00"
+    },
+    {
+      "id": "9a3dfce1-62d5-4daf-83bb-5a2093d44dd9",
+      "symbol": "T",
+      "side": "BUY",
+      "price": 24.8,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "created_at": "2025-11-11T01:40:59.364982+01:00"
+    },
+    {
+      "id": "f7ae9ad5-6c75-4abf-9eac-a306a09db680",
+      "symbol": "AMD",
+      "side": "BUY",
+      "price": 244.23,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 2,
+      "created_at": "2025-11-11T10:13:20.774374+01:00"
+    },
+    {
+      "id": "ab958677-936c-4ca8-91b3-be1f17941e15",
+      "symbol": "AMD",
+      "side": "BUY",
+      "price": 244.0,
+      "timeframe": "5m",
+      "rsi_mode": "RSI 2",
+      "tp_pick": 1,
+      "created_at": "2025-11-11T10:18:21.857421+01:00"
+    }
+  ],
+  "last_update_id": 955228252,
+  "last_recap_hour_intraday": "2025-11-11 10",
+  "last_recap_hour_daily": "2025-11-11 10"
+}

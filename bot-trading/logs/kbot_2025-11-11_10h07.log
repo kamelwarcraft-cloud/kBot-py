@@ -1,0 +1,48 @@
+[TG] sendMessage status: 200
+[TG] response: [TG] raw: {"ok":true,"result":{"message_id":420,"from":{"id":8346264083,"is_bot":true,"first_name":"kBot","username":"SleazylolzBot"},"chat":{"id":7616133753,"first_name":"Lol","last_name":"Lol","type":"private"},"date":1762852081,"text":"\ud83d\udea6 kBot d\u00e9marr\u00e9 \u2014 r\u00e9actions quasi-instantan\u00e9es activ\u00e9es (boutons \u2705/\u274c)."}}
+
+1 Failed download:
+['MA']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['MA']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['GS']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['GS']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['GS']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['T']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['GS']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['WMT']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['WMT']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['WMT']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+
+1 Failed download:
+['T']: YFPricesMissingError('possibly delisted; no price data found  (period=1d)')
+[TG] sendMessage status: 400
+[TG] response: {'ok': False, 'error_code': 400, 'description': 'Bad Request: message is too long'}
+[TG] ERREUR HTTP: 400 {"ok":false,"error_code":400,"description":"Bad Request: message is too long"}
+[TG] sendMessage status: 200
+[TG] response: [TG] raw: {"ok":true,"result":{"message_id":421,"from":{"id":8346264083,"is_bot":true,"first_name":"kBot","username":"SleazylolzBot"},"chat":{"id":7616133753,"first_name":"Lol","last_name":"Lol","type":"private"},"date":1762852156,"text":"\ud83d\uddd3\ufe0f R\u00e9cap horaire (Daily) \u2014 2025-11-11 10:00\n\u2014 SL/TP atteints \u2014\nAucun\n\u2014 Entr\u00e9es confirm\u00e9es \u2014\nAucune\n\u2014 Achats/Ventes en cours \u2014\n\u2022 [?] \u23f3 SHOP BUY @ 152.41 | SL 141.42 | TP 163.40/174.40/185.39 | TP sugg\u00e9r\u00e9: TP?\n\u2014 Signaux (derni\u00e8re heure) \u2014\nAucun signal d\u00e9tect\u00e9"}}
+[TG] sendMessage status: 200
+[TG] response: [TG] raw: {"ok":true,"result":{"message_id":422,"from":{"id":8346264083,"is_bot":true,"first_name":"kBot","username":"SleazylolzBot"},"chat":{"id":7616133753,"first_name":"Lol","last_name":"Lol","type":"private"},"date":1762852443,"text":"\ud83d\udcc8 Signal (5m) \u2014 [RSI 2]\nAMD \u2014 BUY\nEntr\u00e9e: 244.23 | SL: 243.56\nTP: 244.90 / 245.57 / 246.23\nTaille: 149\nTP sugg\u00e9r\u00e9: TP2 (\u00c9cart RSI moyen (4.9), TP2)\nActu (score): +0.00\nRaison: Trend \u2191 & MACD +0.150, RSI 35.1\u226440, news +0.00\nid: f7ae9ad5","entities":[{"offset":25,"length":3,"type":"bold"},{"offset":31,"length":3,"type":"bold"},{"offset":116,"length":3,"type":"bold"},{"offset":228,"length":8,"type":"code"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Je suis entr\u00e9 (V)","callback_data":"CONFIRM|f7ae9ad5-6c75-4abf-9eac-a306a09db680"},{"text":"\u274c Ignorer (X)","callback_data":"IGNORE|f7ae9ad5-6c75-4abf-9eac-a306a09db680"}]]}}}
+[TG] sendMessage status: 200
+[TG] response: [TG] raw: {"ok":true,"result":{"message_id":423,"from":{"id":8346264083,"is_bot":true,"first_name":"kBot","username":"SleazylolzBot"},"chat":{"id":7616133753,"first_name":"Lol","last_name":"Lol","type":"private"},"date":1762852744,"text":"\ud83d\udcc8 Signal (5m) \u2014 [RSI 2]\nAMD \u2014 BUY\nEntr\u00e9e: 244.00 | SL: 243.27\nTP: 244.73 / 245.46 / 246.19\nTaille: 136\nTP sugg\u00e9r\u00e9: TP1 (\u00c9cart RSI faible (2.5), TP1)\nActu (score): +0.00\nRaison: Trend \u2191 & MACD +0.078, RSI 37.5\u226440, news +0.00\nid: ab958677","entities":[{"offset":25,"length":3,"type":"bold"},{"offset":31,"length":3,"type":"bold"},{"offset":116,"length":3,"type":"bold"},{"offset":229,"length":8,"type":"code"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Je suis entr\u00e9 (V)","callback_data":"CONFIRM|ab958677-936c-4ca8-91b3-be1f17941e15"},{"text":"\u274c Ignorer (X)","callback_data":"IGNORE|ab958677-936c-4ca8-91b3-be1f17941e15"}]]}}}
+[TG] sendMessage status: 200
+[TG] response: [TG] raw: {"ok":true,"result":{"message_id":424,"from":{"id":8346264083,"is_bot":true,"first_name":"kBot","username":"SleazylolzBot"},"chat":{"id":7616133753,"first_name":"Lol","last_name":"Lol","type":"private"},"date":1762852754,"text":"\u2705 Confirmation re\u00e7ue pour AMD (BUY) \u2014 trade f7ae9ad5"}}
+[TG] sendMessage status: 200
+[TG] response: [TG] raw: {"ok":true,"result":{"message_id":425,"from":{"id":8346264083,"is_bot":true,"first_name":"kBot","username":"SleazylolzBot"},"chat":{"id":7616133753,"first_name":"Lol","last_name":"Lol","type":"private"},"date":1762852765,"text":"\u274c Signal ignor\u00e9 pour AMD (BUY) \u2014 trade ab958677"}}
